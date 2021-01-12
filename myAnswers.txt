@@ -24,3 +24,4 @@ After comparing both results with a diffchecker, there were no substantial diffe
 POST is used to send data to a URL, and a data payload is needed.
 
 Question 8:
+https://raw.githubusercontent.com/jnrizvi/CMPUT404_Lab1/main/script.py
