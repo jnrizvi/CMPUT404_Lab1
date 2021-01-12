@@ -12,4 +12,15 @@ Installing requests with pip likely installed an older version because it wasn't
 I created the venv for python3 and installed within it so different version inside venv.
 
 Question 5:
-Status code was 301
+Status code was "301 Moved Permanently". I would need to visit the URL that specifies where the new location is.
+http://www.google.com/
+
+Question 6:
+The status code is 301, and so it the one returned by curl -i.
+Sending curl -i http://www.google.com/teapot returns the status code 418.
+
+Question 7:
+After comparing both results with a diffchecker, there were no substantial differences in the outputs.
+POST is used to send data to a URL, and a data payload is needed.
+
+Question 8:
