@@ -1,0 +1,15 @@
+Question 1:
+https://github.com/jnrizvi/CMPUT404_Lab1
+
+Question 2:
+2.20.0
+
+Question 3:
+2.25.1
+
+Question 4:
+Installing requests with pip likely installed an older version because it wasn't pip3.
+I created the venv for python3 and installed within it so different version inside venv.
+
+Question 5:
+Status code was 301
